@@ -1,0 +1,9 @@
+{
+	"name": "df-AzureProjectSp",
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "da70a190-e18b-42fe-ac06-6e07dc782bf7",
+		"tenantId": "20b8bc79-5418-4a68-b7ca-eff9bb4d8ed0"
+	}
+}
